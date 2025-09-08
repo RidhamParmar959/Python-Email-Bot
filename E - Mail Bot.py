@@ -5,11 +5,11 @@ import dns.resolver
 import pandas as pd
 import smtplib
 from sys import exit
-from config import *
+from config import *      # YOUR PASSWORD PYTHON FILE
 from email.message import EmailMessage 
 from datetime import datetime, timedelta
-EMAIL = E_MAIL                      # MY GMAIL ADDRESS
-PASSWORD = PASSWORD            # MY 16-CHARACTER APP PASSWORD
+EMAIL = E_MAIL                      # YOUR GMAIL ADDRESS
+PASSWORD = PASSWORD            # YOUR 16-CHARACTER APP PASSWORD
 SMTP_SERVER = "smtp.gmail.com"  
 SMTP_PORT = 465
 
@@ -265,4 +265,5 @@ def main():
 # Start
 if __name__ == "__main__":
     two_factor_authentication_process()
+
     main()
