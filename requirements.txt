@@ -1,0 +1,6 @@
+1). pandas
+2). dnspython
+3). openpyxl
+
+Bash:
+pip install -r requirements.txt
