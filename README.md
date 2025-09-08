@@ -32,7 +32,7 @@ Clone the Repository:
 
 
 
-git clone https://github.com/your-username/Python-Email-Bot.git
+git clone https://github.com/RidhamParmar959/Python-Email-Bot.git
 
 
 
@@ -57,4 +57,5 @@ python "E - Mail Bot.py"
 * **License**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 
