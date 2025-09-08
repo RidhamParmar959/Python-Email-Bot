@@ -1,0 +1,57 @@
+|-----------------------------------------------------|
+| --------- Trec Records Of Login Attempt ----------- |
+|-----------------------------------------------------|
+
+Date : [2025-09-08 12:25:33]
+
+--> Status: SUCCESS
+--> Entered OTP: 586970
+--> Correct OTP: N/A
+
+
+
+Date : [2025-09-08 12:37:34]
+
+--> Status: SUCCESS
+--> Entered OTP: 259843
+--> Correct OTP: N/A
+
+
+
+Date : [2025-09-08 12:49:44]
+
+--> Status: SUCCESS
+--> Entered OTP: 679092
+--> Correct OTP: 679092
+
+
+
+Date : [2025-09-08 12:53:37]
+
+--> Status: SUCCESS
+--> Entered OTP: 948475
+--> Correct OTP: 948475
+
+
+
+Date : [2025-09-08 12:55:44]
+
+--> Status: CANCELLED
+--> Entered OTP: N/A
+--> Correct OTP: N/A
+
+
+
+Date : [2025-09-08 12:56:11]
+
+--> Status: SUCCESS
+--> Entered OTP: 944742
+--> Correct OTP: 944742
+
+
+
+Date : [2025-09-08 12:58:59]
+
+--> Status: SUCCESS
+--> Entered OTP: 881429
+--> Correct OTP: 881429

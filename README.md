@@ -1,4 +1,4 @@
-							                            **Python Email Bot**
+							**Python Email Bot**
 
 
 

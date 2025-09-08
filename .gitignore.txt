@@ -1,0 +1,7 @@
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore sensitive configuration and log files
+config.py
+Trec_Records_Of_Email_Sended
+Trec_Records_Of_Login_Attempt

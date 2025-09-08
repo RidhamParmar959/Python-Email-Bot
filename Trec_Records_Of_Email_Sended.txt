@@ -1,0 +1,41 @@
+|-----------------------------------------------------|
+| --------- Trec Records Of Email Sended ------------ |
+|-----------------------------------------------------|
+
+Date : [2025-09-08 12:37:11]
+
+--> Sender Email Address: parmarridham952009@gmail.com
+--> Receiver Email Address: rhythm.work.id@proton.me
+--> Subject: Two Factor Authentication Process
+
+
+
+Date : [2025-09-08 12:49:23]
+
+--> Sender Email Address: parmarridham952009@gmail.com
+--> Receiver Email Address: rhythm.work.id@proton.me
+--> Subject: Two Factor Authentication Process
+
+
+
+Date : [2025-09-08 12:53:18]
+
+--> Sender Email Address: parmarridham952009@gmail.com
+--> Receiver Email Address: rhythm.work.id@proton.me
+--> Subject: Two Factor Authentication Process
+
+
+
+Date : [2025-09-08 12:55:52]
+
+--> Sender Email Address: parmarridham952009@gmail.com
+--> Receiver Email Address: rhythm.work.id@proton.me
+--> Subject: Two Factor Authentication Process
+
+
+
+Date : [2025-09-08 12:58:40]
+
+--> Sender Email Address: parmarridham952009@gmail.com
+--> Receiver Email Address: rhythm.work.id@proton.me
+--> Subject: Two Factor Authentication Process
